@@ -1,4 +1,4 @@
-const Sieve = require("./sieve");
+import Sieve from "./sieve";
 
 describe("Sieve", () => {
   test("valid results", () => {

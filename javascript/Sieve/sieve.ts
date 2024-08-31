@@ -1,7 +1,7 @@
 class Sieve {
-  NthPrime(n) {
+  NthPrime(n: number) {
     throw new Error("unimplemented");
   }
 }
 
-module.exports = Sieve;
+export default Sieve;
